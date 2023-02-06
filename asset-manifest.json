@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/react-demo_maze/static/js/main.4ff0bc44.js",
+    "static/media/win.jpg": "/react-demo_maze/static/media/win.0b152582b40f7de7af3c.jpg",
+    "static/media/gold.jpg": "/react-demo_maze/static/media/gold.dc72a90f68a2c963a057.jpg",
+    "index.html": "/react-demo_maze/index.html",
+    "main.4ff0bc44.js.map": "/react-demo_maze/static/js/main.4ff0bc44.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.4ff0bc44.js"
+  ]
+}
